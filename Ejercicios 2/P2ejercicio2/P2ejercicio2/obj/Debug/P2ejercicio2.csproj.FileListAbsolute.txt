@@ -1,0 +1,8 @@
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\bin\Debug\P2ejercicio2.exe.config
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\bin\Debug\P2ejercicio2.exe
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\bin\Debug\P2ejercicio2.pdb
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\obj\Debug\P2ejercicio2.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\obj\Debug\P2ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\obj\Debug\P2ejercicio2.exe
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\obj\Debug\P2ejercicio2.pdb
+C:\Users\alumno\source\repos\P2ejercicio2\P2ejercicio2\obj\Debug\P2ejercicio2.exe.config
