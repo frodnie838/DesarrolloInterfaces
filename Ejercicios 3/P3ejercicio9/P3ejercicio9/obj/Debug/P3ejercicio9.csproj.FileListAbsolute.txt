@@ -1,0 +1,7 @@
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\bin\Debug\P3ejercicio9.exe.config
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\bin\Debug\P3ejercicio9.exe
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\bin\Debug\P3ejercicio9.pdb
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\obj\Debug\P3ejercicio9.csproj.AssemblyReference.cache
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\obj\Debug\P3ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\obj\Debug\P3ejercicio9.exe
+C:\Users\Fran\source\repos\P3ejercicio9\P3ejercicio9\obj\Debug\P3ejercicio9.pdb

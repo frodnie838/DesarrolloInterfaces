@@ -1,0 +1,8 @@
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\bin\Debug\P3ejercicio8.exe.config
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\bin\Debug\P3ejercicio8.exe
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\bin\Debug\P3ejercicio8.pdb
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\obj\Debug\P3ejercicio8.csproj.AssemblyReference.cache
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\obj\Debug\P3ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\obj\Debug\P3ejercicio8.exe
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\obj\Debug\P3ejercicio8.pdb
+C:\Users\Fran\source\repos\P3ejercicio8\P3ejercicio8\obj\Debug\P3ejercicio8.exe.config

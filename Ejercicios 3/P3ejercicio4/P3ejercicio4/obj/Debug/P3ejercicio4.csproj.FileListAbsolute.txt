@@ -1,0 +1,8 @@
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\bin\Debug\P3ejercicio4.exe.config
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\bin\Debug\P3ejercicio4.exe
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\bin\Debug\P3ejercicio4.pdb
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\obj\Debug\P3ejercicio4.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\obj\Debug\P3ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\obj\Debug\P3ejercicio4.exe
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\obj\Debug\P3ejercicio4.pdb
+C:\Users\alumno\source\repos\P3ejercicio4\P3ejercicio4\obj\Debug\P3ejercicio4.exe.config
