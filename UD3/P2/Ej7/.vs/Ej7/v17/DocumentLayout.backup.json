@@ -26,8 +26,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P2\\Ej7\\Ej7\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Ej7\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P2\\Ej7\\Ej7\\MainWindow.xaml*",
-              "RelativeToolTip": "Ej7\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P2\\Ej7\\Ej7\\MainWindow.xaml",
+              "RelativeToolTip": "Ej7\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-21T12:05:49.422Z",
               "EditorCaption": ""
@@ -42,7 +42,8 @@
               "RelativeToolTip": "Ej7\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwCEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T12:05:49.348Z"
+              "WhenOpened": "2025-10-21T12:05:49.348Z",
+              "EditorCaption": ""
             }
           ]
         }

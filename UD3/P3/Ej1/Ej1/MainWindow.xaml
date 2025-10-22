@@ -1,0 +1,37 @@
+﻿<Window x:Class="Ej1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="575" Width="800">
+    <Grid Margin="0,0,0,-46" >
+        <StackPanel Background="ForestGreen" Margin="16" VerticalAlignment="Top" HorizontalAlignment="Stretch" >
+            <Label Foreground="White" FontSize="24" FontWeight="Bold" Margin="0,0,0,10">¿Cuál es la capital de Andalucía?</Label>
+
+            <RadioButton Name="rbA" GroupName="Answers" Margin="5" Foreground="White">Badajoz</RadioButton>
+            <RadioButton Name="rbB" GroupName="Answers" Margin="5" Foreground="White">Córdoba</RadioButton>
+            <RadioButton Name="rbC" GroupName="Answers" Margin="5" Foreground="White" Tag="True">Sevilla</RadioButton>
+            <RadioButton Name="rbD" GroupName="Answers" Margin="5" Foreground="White">Madrid</RadioButton>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,12,0,0">
+                <Button Name="btnCorregir" Width="100" Height="28" Click="Corregir">Corregir</Button>
+                <Label Name="lblIntentos" Margin="12,3,0,0" VerticalAlignment="Center" Foreground="White">Intentos: 0/2</Label>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Background="White" Margin="16,209,16,0" VerticalAlignment="Top" Height="122" >
+            <Image Source="/andalucia.png" Width="150" Height="100" Margin="10"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </StackPanel>
+        <StackPanel Background="ForestGreen" Margin="16,321,16,0" VerticalAlignment="Top" Height="196" RenderTransformOrigin="0.5,0.5" >            
+            <StackPanel.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </StackPanel.RenderTransform>
+        </StackPanel>
+    </Grid>
+</Window>
