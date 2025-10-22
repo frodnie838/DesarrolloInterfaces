@@ -6,17 +6,17 @@
         xmlns:local="clr-namespace:Ej7"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>       
-            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-                <TextBox x:Name="tBox" Width="250" HorizontalAlignment="Center" Margin="0,0,0,10" />
-                <Button Padding="10" HorizontalAlignment="Center" Click="BClick">
-                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
-                        <Viewbox Width="16" Height="16" Margin="0,0,8,0">
-                            <Image Source="C:\Users\alumno\Desktop\recio.png"  Width="16" Height="16" Cursor="Hand" MouseLeftButtonUp="ImagenClick" />
-                        </Viewbox>
-                        <TextBlock VerticalAlignment="Center">Botón</TextBlock>
-                    </StackPanel>
-                </Button>
-            </StackPanel>
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBox x:Name="tBox" Width="250" HorizontalAlignment="Center" Margin="0,0,0,10" />
+            <Button Padding="10" HorizontalAlignment="Center" Click="BClick">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Viewbox Width="16" Height="16" Margin="0,0,8,0">
+                        <Image Source="/alerta.png"  Width="27" Height="24" Cursor="Hand" MouseLeftButtonUp="ImagenClick" />
+                    </Viewbox>
+                    <TextBlock VerticalAlignment="Center">Botón</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>
