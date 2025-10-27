@@ -1,0 +1,28 @@
+﻿<Window x:Class="Ej3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Column="0">
+            <Label Margin="10,0,0,0">Nombre</Label>
+            <TextBox Margin="10,0,0,0" Width="250" HorizontalAlignment="Left" TabIndex="0"/>
+            <Label Margin="10,0,0,0">Dirección</Label>
+            <TextBox Margin="10,0,0,0" Width="250" HorizontalAlignment="Left" TabIndex="2"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Margin="10,0,0,0">Apellido</Label>
+            <TextBox Margin="10,0,0,0" Width="250" HorizontalAlignment="Left" TabIndex="1"/>
+            <Label Margin="10,0,0,0">Código Postal</Label>
+            <TextBox Margin="10,0,0,0" Width="250" HorizontalAlignment="Left" TabIndex="3"/>
+        </StackPanel> 
+    </Grid>
+</Window>

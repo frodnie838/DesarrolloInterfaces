@@ -8,11 +8,12 @@
         Title="MainWindow" Height="250" Width="500">
     <Grid>
         <StackPanel>
-            <Label Margin="20">Nombre</Label>
+            <Label FontWeight="Bold" FontSize="20" HorizontalAlignment="Center">Formulario</Label>
+            <Label Margin="20,0,0,0">Nombre</Label>
             <TextBox Name="tbNombre" Width="400" HorizontalAlignment="Left" Margin="20,0,0,0"></TextBox>
-            <Label Margin="20">Edad</Label>
+            <Label Margin="20,0,0,0">Edad</Label>
             <TextBox Name="tbEdad" Width="400" HorizontalAlignment="Left" Margin="20,0,0,0"></TextBox>
-            <Button Name="btnEnviar" Margin="20" Width="80" HorizontalAlignment="Left">Enviar datos</Button>
+            <Button ToolTip="Haz clic aquí para enviar los datos…" Name="btnEnviar" Margin="20" Width="80" HorizontalAlignment="Left">Enviar datos</Button>
         </StackPanel>
     </Grid>
 </Window>
