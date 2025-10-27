@@ -1,0 +1,18 @@
+﻿<Window x:Class="Ej3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300">
+    <Grid>
+        <StackPanel>
+            <Label Margin="20,0,0,0">Ususario</Label>
+            <TextBox Name="txtUsu" Width="240" HorizontalAlignment="Left" Margin="20,0,0,0"/>
+            <Label Margin="20,0,0,0">Contraseña</Label>
+            <PasswordBox Name="pwdPass"  MaxLength="8" PasswordChar="*" Width="240" HorizontalAlignment="Left" Margin="20,0,0,0"/>
+            <Button Click="Password" Width="80" HorizontalAlignment="Left" Margin="20,10,0,0">Iniciar</Button>
+        </StackPanel>
+    </Grid>
+</Window>
