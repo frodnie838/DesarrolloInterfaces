@@ -4,13 +4,12 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Ej3"
-        mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <WrapPanel Orientation="Horizontal">
-        <Image Source="/images/andalucia.png"/>
-        <Image Source="/images/badajoz.png"/>
-        <Image Source="/images/cordoba.png"/>
-        <Image Source="/images/madrid.png"/>
-        <Image Source="/images/sevilla.png"/>
+        <Image Height="80" Margin="10" Source="/images/andalucia.png"/>
+        <Image Height="80" Margin="10" Source="/images/badajoz.png"/>
+        <Image Height="80" Margin="10" Source="/images/cordoba.png"/>
+        <Image Height="80" Margin="10" Source="/images/madrid.png"/>
+        <Image Height="80" Margin="10" Source="/images/sevilla.png"/>
     </WrapPanel>
 </Window>

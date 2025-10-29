@@ -1,0 +1,28 @@
+﻿<Window x:Class="Ej5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel LastChildFill="True">       
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+                <Button>Archivo</Button>
+                <Button>Editar</Button>
+                <Button>Ayuda</Button>
+            </StackPanel>
+        <TextBlock DockPanel.Dock="Bottom">Terminado</TextBlock>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,8"> Texto Centro</TextBlock>
+            <Button Grid.Row="1" Content="Aceptar" Width="100" Height="30" HorizontalAlignment="Center" Margin="0,12"/>
+            </Grid>
+            
+    </DockPanel>
+</Window>
