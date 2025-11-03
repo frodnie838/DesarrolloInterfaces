@@ -1,0 +1,43 @@
+﻿<Window x:Class="Ej3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>            
+        </Grid.RowDefinitions>
+
+        <!-- Alt+N -->
+        <Label Grid.Column="0" Grid.Row="0" Target="{Binding ElementName=txtNombre}" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Image Source="/images/usuario.png" Margin="0,0,6,0" Width="15"/>
+                <AccessText Text="_Nombre" />
+            </StackPanel>
+        </Label>
+        <TextBox Grid.Column="1" Grid.Row="0" Name="txtNombre" Margin="4" Height="20"/>
+
+        <!-- Alt+E -->
+        <Label Grid.Column="0" Grid.Row="1" Target="{Binding ElementName=txtEmail}" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <Image Source="/images/email.png" Margin="0,0,6,0" Width="15"/>
+                <AccessText Text="_Email" />
+            </StackPanel>
+        </Label>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="txtEmail" Margin="4" Height="20"/>
+
+        <Button Grid.Column="1" Grid.Row="3" Width="80" HorizontalAlignment="Right" VerticalAlignment="Top" ToolTip="Enviar los datos del formulario" Click="Enviar">Enviar</Button>
+        <TextBox Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Name="txtComentario" Margin="6" AcceptsReturn="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Height="90"/>
+    </Grid>
+    
+</Window>
