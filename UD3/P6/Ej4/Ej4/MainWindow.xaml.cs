@@ -35,7 +35,7 @@ namespace Ej4
 
             if (dialog.ShowDialog() == true)
             {
-                txtArea.Text = dialog.FileName;
+                txtArea.Text = File.ReadAllText(dialog.FileName);
             }
         }
 
