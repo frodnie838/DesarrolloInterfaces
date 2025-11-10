@@ -1,0 +1,20 @@
+﻿<Window x:Class="Ej3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+            <Button Content="_Abrir Fichero" ToolTip="Abrir un fichero .txt desde la carpeta Escritorio" Click="AbrirFichero" Margin="6"/>
+            <Button Content="_Guardar Fichero" ToolTip="Guardar el texto en un fichero .txt en la carpeta Escritorio" Click="GuardarFichero" Margin="6"/>
+        </StackPanel>
+        <TextBox Name="txtArea" Grid.Row="1" Margin="10" AcceptsReturn="True"/>
+    </Grid>
+</Window>
