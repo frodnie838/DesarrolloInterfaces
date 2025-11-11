@@ -37,8 +37,8 @@ namespace Ej3
         private void GuardarFichero(Object sender, RoutedEventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
-            sfd.Filter = "Texto (*.txt)|*.txt|C# (*.cs)|*.cs";                        
-
+            sfd.Filter = "Texto (*.txt)|*.txt|C# (*.cs)|*.cs";
+            sfd.DefaultExt = ".txt";
 
             if (sfd.ShowDialog() == true)
             {
