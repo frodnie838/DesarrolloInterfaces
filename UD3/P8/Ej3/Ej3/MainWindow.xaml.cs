@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using Microsoft.Win32;
+using System.IO;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -23,7 +25,17 @@ namespace Ej3
 
         public void Guardar(object sender, EventArgs e)
         {
-            
+            SaveFileDialog saveDialog = new SaveFileDialog
+            {
+                Filter = "Archivo de texto|*.txt",
+                Title = "Guardar archivo"
+            };
+
+            if (saveDialog.ShowDialog() == true)
+            {
+                File.WriteAllText(saveDialog.FileName, txtArea.Text);
+                MessageBox.Show("Archivo guardado correctamente.", "Guardar", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
 
         private void NewCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
@@ -32,31 +44,31 @@ namespace Ej3
         }
         private void NewCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            txtArea.Text = "";
+            txtArea.Clear();
         }
         private void CutCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
         {
-            e.CanExecute = true;
+            e.CanExecute = txtArea.SelectionLength > 0;
         }
         private void CutCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            
+            txtArea.Cut();
         }
         private void CopyCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
         {
-            e.CanExecute = true;
+            e.CanExecute = txtArea.SelectionLength > 0;
         }
         private void CopyCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            txtArea.Text = "";
+            txtArea.Copy();
         }
         private void PasteCommand_CanExecute(object sender, CanExecuteRoutedEventArgs e)
         {
-            e.CanExecute = true;
+            e.CanExecute = Clipboard.ContainsText();
         }
         private void PasteCommand_Executed(object sender, ExecutedRoutedEventArgs e)
         {
-            txtArea.Text = "";
+            txtArea.Paste();
         }
     }
 }
