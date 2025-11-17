@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0040DBA1-7D8A-4BD1-B746-0C84B7EC4794}|Ej4\\Ej4.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej4\\ej4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0040DBA1-7D8A-4BD1-B746-0C84B7EC4794}|Ej4\\Ej4.csproj|solutionrelative:ej4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D8AC8884-0DA6-4CB2-9731-824401BA82AD}|Ej4\\Ej4.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej4\\ej4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8AC8884-0DA6-4CB2-9731-824401BA82AD}|Ej4\\Ej4.csproj|solutionrelative:ej4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0040DBA1-7D8A-4BD1-B746-0C84B7EC4794}|Ej4\\Ej4.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej4\\ej4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0040DBA1-7D8A-4BD1-B746-0C84B7EC4794}|Ej4\\Ej4.csproj|solutionrelative:ej4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8AC8884-0DA6-4CB2-9731-824401BA82AD}|Ej4\\Ej4.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej4\\ej4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8AC8884-0DA6-4CB2-9731-824401BA82AD}|Ej4\\Ej4.csproj|solutionrelative:ej4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +29,7 @@
               "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej4\\Ej4\\MainWindow.xaml",
               "RelativeToolTip": "Ej4\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T13:14:58.909Z",
+              "WhenOpened": "2025-11-17T08:23:53.944Z",
               "EditorCaption": ""
             },
             {
@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "Ej4\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej4\\Ej4\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ej4\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:14:58.83Z",
+              "WhenOpened": "2025-11-17T08:23:53.869Z",
               "EditorCaption": ""
             }
           ]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej3\\ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|solutionrelative:ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej3\\ej3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|solutionrelative:ej3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p8\\ej3\\ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2205AB-D5F0-4E21-9379-EA81333D63BA}|Ej3\\Ej3.csproj|solutionrelative:ej3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej3\\Ej3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Ej3\\MainWindow.xaml",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej3\\Ej3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Ej3\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P8\\Ej3\\Ej3\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ej3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:09:50.86Z",
               "EditorCaption": ""

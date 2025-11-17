@@ -6,7 +6,26 @@
         xmlns:local="clr-namespace:Ej4"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Window.CommandBindings>
+        
+        <CommandBinding Command="Copy" CanExecute="CopyCommand_CanExecute" Executed="CopyCommand_Executed"/>
+        <CommandBinding Command="Cut" CanExecute="CutCommand_CanExecute" Executed="CutCommand_Executed"/>
+        <CommandBinding Command="Paste" CanExecute="PasteCommand_CanExecute" Executed="PasteCommand_Executed"/>
 
-    </Grid>
+    </Window.CommandBindings>
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top">
+            <TextBox Height="200" Name="txtArea">
+                <TextBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Command="Cut"/>
+                        <MenuItem Command="Copy"/>
+                        <MenuItem Command="Paste"/>
+                        <Separator/>
+                        <MenuItem Header="_Mostrar" Click="Show"/>
+                    </ContextMenu>
+                </TextBox.ContextMenu>
+            </TextBox>
+        </StackPanel>
+    </DockPanel>
 </Window>
