@@ -69,7 +69,7 @@ namespace Ej1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Ej1;component/segundaventana.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Ej1;V1.0.0.0;component/segundaventana.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\SegundaVentana.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
