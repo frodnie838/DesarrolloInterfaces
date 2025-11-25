@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Avanzado.csproj",
+      "projectUniqueName": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Avanzado.csproj",
       "projectName": "Avanzado",
-      "projectPath": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Avanzado.csproj",
+      "projectPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Avanzado.csproj",
       "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\obj\\",
+      "outputPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

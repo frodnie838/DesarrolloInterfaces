@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\",
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\avanzado\\avanzado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\diferentesniveles\\avanzadoysuper\\avanzado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|solutionrelative:avanzado\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\avanzado\\avanzado\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|solutionrelative:avanzado\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\avanzado\\avanzado\\ventana2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\diferentesniveles\\avanzadoysuper\\avanzado\\ventana2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|solutionrelative:avanzado\\ventana2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\avanzado\\avanzado\\ventana2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\diferentesniveles\\avanzadoysuper\\avanzado\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|solutionrelative:avanzado\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\diferentesniveles\\avanzadoysuper\\avanzado\\ventana2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A10A6882-C986-4FC5-A813-F6296166925F}|Avanzado\\Avanzado.csproj|solutionrelative:avanzado\\ventana2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -30,11 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ventana2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Ventana2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Ventana2.xaml.cs",
               "RelativeDocumentMoniker": "Avanzado\\Ventana2.xaml.cs",
-              "ToolTip": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Ventana2.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Ventana2.xaml.cs",
               "RelativeToolTip": "Avanzado\\Ventana2.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,21 +45,22 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ventana2.xaml",
-              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Ventana2.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Ventana2.xaml",
               "RelativeDocumentMoniker": "Avanzado\\Ventana2.xaml",
-              "ToolTip": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\Ventana2.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\Ventana2.xaml",
               "RelativeToolTip": "Avanzado\\Ventana2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-18T12:36:02.165Z"
+              "WhenOpened": "2025-11-18T12:36:02.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Avanzado\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\MainWindow.xaml*",
-              "RelativeToolTip": "Avanzado\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\MainWindow.xaml",
+              "RelativeToolTip": "Avanzado\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-18T12:24:52.975Z",
               "EditorCaption": ""
@@ -68,11 +69,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Avanzado\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\Avanzado\\Avanzado\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\DiferentesNiveles\\AvanzadoYSuper\\Avanzado\\MainWindow.xaml.cs",
               "RelativeToolTip": "Avanzado\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T12:24:51.032Z",
               "EditorCaption": ""

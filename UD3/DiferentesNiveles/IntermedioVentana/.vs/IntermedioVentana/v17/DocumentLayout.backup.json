@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\IntermedioVentana\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\intermedioventana\\intermedioventana\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|solutionrelative:intermedioventana\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\intermedioventana\\intermedioventana\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|solutionrelative:intermedioventana\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\intermedioventana\\intermedioventana\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|solutionrelative:intermedioventana\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15854923-9DD4-406F-8875-47A2424E2C13}|IntermedioVentana\\IntermedioVentana.csproj|c:\\users\\alumno\\desktop\\dam\\desarrollo de interfaces\\intermedioventana\\intermedioventana\\ventana2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "IntermedioVentana\\Ventana2.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:42:04.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:42:04.73Z"
             },
             {
               "$type": "Document",
@@ -50,12 +49,11 @@
               "ToolTip": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\IntermedioVentana\\IntermedioVentana\\Ventana2.xaml",
               "RelativeToolTip": "IntermedioVentana\\Ventana2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-17T09:34:54.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T09:34:54.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\IntermedioVentana\\IntermedioVentana\\MainWindow.xaml",
               "RelativeDocumentMoniker": "IntermedioVentana\\MainWindow.xaml",
@@ -67,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Desktop\\DAM\\Desarrollo de Interfaces\\IntermedioVentana\\IntermedioVentana\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "IntermedioVentana\\MainWindow.xaml.cs",

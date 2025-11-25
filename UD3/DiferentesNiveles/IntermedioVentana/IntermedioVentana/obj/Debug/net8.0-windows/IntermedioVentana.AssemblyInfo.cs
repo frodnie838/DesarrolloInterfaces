@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntermedioVentana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09aec002de699f12980295fa05074a604e4c9b62")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntermedioVentana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntermedioVentana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
