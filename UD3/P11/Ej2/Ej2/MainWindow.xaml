@@ -1,0 +1,28 @@
+﻿<Window x:Class="Ej2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ej2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="LightCoral" >
+        <StackPanel VerticalAlignment="Center" Margin="20">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">R:</TextBlock>
+                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
+                <TextBox Name="txtR" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">G:</TextBlock>
+                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
+                <TextBox Name="txtG" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">B:</TextBlock>
+                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
+                <TextBox Name="txtB" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
