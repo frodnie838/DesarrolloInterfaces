@@ -20,5 +20,14 @@ namespace Ej2
         {
             InitializeComponent();
         }
+
+        private void RGB(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            byte r = (byte)sR.Value;
+            byte g = (byte)sG.Value;
+            byte b = (byte)sB.Value;
+
+            gridbase.Background = new SolidColorBrush(Color.FromRgb(r, g, b));
+        }
     }
 }

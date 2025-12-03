@@ -6,22 +6,22 @@
         xmlns:local="clr-namespace:Ej2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Background="LightCoral" >
+    <Grid Name="gridbase" >
         <StackPanel VerticalAlignment="Center" Margin="20">
             <StackPanel Orientation="Horizontal">
                 <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">R:</TextBlock>
-                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
-                <TextBox Name="txtR" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+                <Slider Name="sR" Maximum="255" Minimum="0" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center" ValueChanged="RGB"/>
+                <TextBox Name="txtR" IsReadOnly="True" Width="50" Height="40" Margin="20" Text="{Binding Value, ElementName=sR}"/>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">G:</TextBlock>
-                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
-                <TextBox Name="txtG" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+                <Slider Name="sG" Maximum="255" Minimum="0" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center" ValueChanged="RGB"/>
+                <TextBox Name="txtG" IsReadOnly="True" Width="50" Height="40" Margin="20" Text="{Binding Value, ElementName=sG}"/>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <TextBlock FontWeight="Bold" VerticalAlignment="Center" Margin="20">B:</TextBlock>
-                <Slider Maximum="255" Minimum="1" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center"/>
-                <TextBox Name="txtB" IsReadOnly="True" Width="50" Height="40" Margin="20"/>
+                <Slider Name="sB" Maximum="255" Minimum="0" TickPlacement="BottomRight" TickFrequency="10" Width="600" VerticalAlignment="Center" ValueChanged="RGB"/>
+                <TextBox Name="txtB" IsReadOnly="True" Width="50" Height="40" Margin="20" Text="{Binding Value, ElementName=sB}"/>
             </StackPanel>
         </StackPanel>
     </Grid>
