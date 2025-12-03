@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\images_canon_camera_1746.png" />
+    <None Remove="images\multiplicationsign_80855.png" />
+    <None Remove="images\Number-1-icon_34782.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\images_canon_camera_1746.png" />
+    <Resource Include="images\multiplicationsign_80855.png" />
+    <Resource Include="images\Number-1-icon_34782.png" />
+  </ItemGroup>
+
+</Project>
