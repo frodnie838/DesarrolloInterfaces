@@ -34,3 +34,5 @@ C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\
 C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\net8.0-windows\Ej2.pdb
 C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\net8.0-windows\Ej2.genruntimeconfig.cache
 C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\net8.0-windows\ref\Ej2.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\net8.0-windows\Datos.g.cs
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD3\P12\Ej2\Ej2\obj\Debug\net8.0-windows\Datos.baml
