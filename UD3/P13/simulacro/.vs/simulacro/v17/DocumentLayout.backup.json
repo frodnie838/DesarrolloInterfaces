@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\nuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\nuevoparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\informecompleto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\informecompleto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\informecompleto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\informecompleto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\modificaractividad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\modificaractividad.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\modificaractividad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\modificaractividad.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p13\\simulacro\\simulacro\\eliminarparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AF374C1-C3E9-4472-BE12-3A71CD5A5A90}|simulacro\\simulacro.csproj|solutionrelative:simulacro\\eliminarparticipante.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModificarActividad.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\ModificarActividad.xaml.cs",
+              "RelativeDocumentMoniker": "simulacro\\ModificarActividad.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\ModificarActividad.xaml.cs",
+              "RelativeToolTip": "simulacro\\ModificarActividad.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:58:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "simulacro\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\MainWindow.xaml.cs",
+              "RelativeToolTip": "simulacro\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAApwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:01:23.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformeCompleto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\InformeCompleto.xaml.cs",
+              "RelativeDocumentMoniker": "simulacro\\InformeCompleto.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\InformeCompleto.xaml.cs",
+              "RelativeToolTip": "simulacro\\InformeCompleto.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:16:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EliminarParticipante.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\EliminarParticipante.xaml",
+              "RelativeDocumentMoniker": "simulacro\\EliminarParticipante.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\EliminarParticipante.xaml",
+              "RelativeToolTip": "simulacro\\EliminarParticipante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T13:01:38.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModificarActividad.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\ModificarActividad.xaml",
+              "RelativeDocumentMoniker": "simulacro\\ModificarActividad.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\ModificarActividad.xaml",
+              "RelativeToolTip": "simulacro\\ModificarActividad.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T12:48:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoParticipante.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\NuevoParticipante.xaml",
+              "RelativeDocumentMoniker": "simulacro\\NuevoParticipante.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\NuevoParticipante.xaml",
+              "RelativeToolTip": "simulacro\\NuevoParticipante.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T12:20:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "simulacro\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\MainWindow.xaml",
+              "RelativeToolTip": "simulacro\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T12:01:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformeCompleto.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\InformeCompleto.xaml",
+              "RelativeDocumentMoniker": "simulacro\\InformeCompleto.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P13\\simulacro\\simulacro\\InformeCompleto.xaml",
+              "RelativeToolTip": "simulacro\\InformeCompleto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T13:11:50.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p12\\ej2\\ej2\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|solutionrelative:ej2\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p12\\ej2\\ej2\\datos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|solutionrelative:ej2\\datos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p12\\ej2\\ej2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|solutionrelative:ej2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p12\\ej2\\ej2\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|solutionrelative:ej2\\datos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB537694-B04F-442B-ABFD-279C6D86AD69}|Ej2\\Ej2.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud3\\p12\\ej2\\ej2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Datos.xaml",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\Ej2\\Datos.xaml",
               "RelativeDocumentMoniker": "Ej2\\Datos.xaml",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Datos.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\Ej2\\Datos.xaml.cs",
               "RelativeDocumentMoniker": "Ej2\\Datos.xaml.cs",
@@ -62,18 +62,17 @@
               "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\Ej2\\MainWindow.xaml",
               "RelativeToolTip": "Ej2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T13:14:04.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T13:14:04.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\Ej2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Ej2\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD3\\P12\\Ej2\\Ej2\\MainWindow.xaml.cs",
               "RelativeToolTip": "Ej2\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:14:04.016Z",
               "EditorCaption": ""
