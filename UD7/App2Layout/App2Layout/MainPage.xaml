@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2Layout.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="5">
+            <Border
+                BackgroundColor="Blue"
+                Padding="2"
+                Margin="2">
+                <StackLayout
+                    Orientation="Horizontal"
+                    BackgroundColor="LightBlue"
+                    Padding="15"
+                    HorizontalOptions="Fill">
+
+                    <Button Text="💡"
+                        ScaleX="0.8"
+                        ScaleY="0.8"
+                        Background="LightGoldenrodYellow"/>
+                    <Label
+                        Text="Mi App MAUI"
+                        FontSize="20"
+                        FontAttributes="Bold"
+                        HorizontalOptions="StartAndExpand"
+                        Padding="10"/>
+
+
+                    <Button Text="⚙"
+                        ScaleX="0.8"
+                        ScaleY="0.8"/>
+                </StackLayout>
+            </Border>
+            <Border BackgroundColor="Brown"
+                    Padding="2"
+                    Margin="2">
+                <StackLayout
+                    Orientation="Horizontal"
+                    BackgroundColor="#FFF3CD"
+                    Padding="10"
+                    Spacing="10">
+
+
+                    <Image
+                        Source="dotnet_bot.png"
+                        HeightRequest="60"
+                        WidthRequest="60" />
+
+
+                    <StackLayout>
+                        <Label Text="Juan Pérez" FontAttributes="Bold" />
+                        <Label Text="Desarrollador MAUI" FontSize="12" />
+                        <Label Text="Apasionado por el desarrollo móvil" FontSize="11" />
+                    </StackLayout>
+                </StackLayout>
+            </Border>
+
+
+            <Border BackgroundColor="Gray"
+                     Padding="2"
+                    Margin="2"
+                    >
+                <Grid
+                    RowDefinitions="Auto,Auto"
+                    ColumnDefinitions="*,*"
+                    BackgroundColor="AliceBlue"
+                    Padding="10"
+                    RowSpacing="10"
+                    ColumnSpacing="10">
+
+
+                    <Button Text="⭐ Favoritos" Grid.Row="0" Grid.Column="0" />
+                    <Button Text="🖼 Galería" Grid.Row="0" Grid.Column="1" />
+                    <Button Text="❤️ Like" Grid.Row="1" Grid.Column="0" />
+                    <Button Text="⚙ Configurar" Grid.Row="1" Grid.Column="1" />
+                </Grid>
+            </Border>
+            <Border BackgroundColor="RosyBrown"
+                    Padding="2"
+                    Margin="2"
+                    >
+                <FlexLayout
+                    Wrap="Wrap"
+                    JustifyContent="Start"
+                    AlignItems="Start"
+                    BackgroundColor="LightGoldenrodYellow"
+                    Padding="10">
+
+
+                    <Label Text="#MAUI" Style="{StaticResource ChipStyle}" />
+                    <Label Text="#CSharp" Style="{StaticResource ChipStyle}" />
+                    <Label Text="#Mobile" Style="{StaticResource ChipStyle}" />
+                    <Label Text="#UI" Style="{StaticResource ChipStyle}" />
+                    <Label Text="#Layouts" Style="{StaticResource ChipStyle}" />
+                </FlexLayout>
+            </Border>
+
+            <Border BackgroundColor="Purple"
+                    Padding="2"
+                    Margin="2">
+                <Frame BackgroundColor="White" Padding="10">
+                    <ScrollView HeightRequest="120">
+                        <Label
+                            Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            Vestibulum euismod, velit sit amet vestibulum fermentum, elit ligula tincidunt sapien, sit amet egestas libero ut sapien.
+                            Phasellus viverra malesuada."
+                            FontSize="12" />
+                    </ScrollView>
+                </Frame>
+            </Border>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
