@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\paginaflexl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\paginaflexl.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\pagina2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\pagina2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\pagina2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\pagina1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\pagina1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\primeraapp\\primeraapp\\pagina1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D81E6D4-2DAF-4619-A5A7-0679DE26F160}|PrimeraApp\\PrimeraApp.csproj|solutionrelative:primeraapp\\pagina1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaFlexL.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\PaginaFlexL.xaml",
+              "RelativeDocumentMoniker": "PrimeraApp\\PaginaFlexL.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\PaginaFlexL.xaml",
+              "RelativeToolTip": "PrimeraApp\\PaginaFlexL.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T13:23:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina2.xaml.cs",
+              "RelativeDocumentMoniker": "PrimeraApp\\Pagina2.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina2.xaml.cs",
+              "RelativeToolTip": "PrimeraApp\\Pagina2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:01:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagina2.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina2.xaml",
+              "RelativeDocumentMoniker": "PrimeraApp\\Pagina2.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina2.xaml",
+              "RelativeToolTip": "PrimeraApp\\Pagina2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T13:00:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagina1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina1.xaml.cs",
+              "RelativeDocumentMoniker": "PrimeraApp\\Pagina1.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina1.xaml.cs",
+              "RelativeToolTip": "PrimeraApp\\Pagina1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:53:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pagina1.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina1.xaml",
+              "RelativeDocumentMoniker": "PrimeraApp\\Pagina1.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\Pagina1.xaml",
+              "RelativeToolTip": "PrimeraApp\\Pagina1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T12:50:40.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PrimeraApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\MainPage.xaml",
+              "RelativeToolTip": "PrimeraApp\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T12:23:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PrimeraApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\PrimeraApp\\PrimeraApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "PrimeraApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T12:23:20.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

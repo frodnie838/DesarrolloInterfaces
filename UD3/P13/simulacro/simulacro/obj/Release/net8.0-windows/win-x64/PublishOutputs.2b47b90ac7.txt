@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\simulacro.pdb
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\comerr64.dll
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\gssapi64.dll
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\k5sprt64.dll
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\krb5_64.dll
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\krbcc64.dll
+C:\Users\alumno\Desktop\PracticaDocumentacionFRN\simulacro.exe

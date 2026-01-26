@@ -22,9 +22,13 @@ namespace simulacro
     /// </summary>
     public partial class InformeCompleto : Window
     {
-        private string conexion = "server=localhost; port=3306; database=prueba; uid=root; pwd=password";
+
+        /// <summary>The conexion</summary>
+        private string conexion = "server=192.168.1.178; port=3306; database=prueba; uid=damuser; pwd=password";
         private MySqlConnection connection;
         public ObservableCollection<users> Lista { get; set; }
+
+        /// <summary>Initializes a new instance of the <see cref="InformeCompleto" /> class.</summary>
         public InformeCompleto()
         {
             Lista = new ObservableCollection<users>();
@@ -46,6 +50,9 @@ namespace simulacro
             }
         }
 
+        /// <summary>
+        ///   clase de usuarios
+        /// </summary>
         public class users
         {
             public int idusers { get; set; }

@@ -1,0 +1,12 @@
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\bin\Debug\net8.0\simulacro.Logica.deps.json
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\bin\Debug\net8.0\simulacro.Logica.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\bin\Debug\net8.0\simulacro.Logica.pdb
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.AssemblyInfo.cs
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.sourcelink.json
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\refint\simulacro.Logica.dll
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\simulacro.Logica.pdb
+C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD6\SimulacroTest\simulacro.Logica\obj\Debug\net8.0\ref\simulacro.Logica.dll

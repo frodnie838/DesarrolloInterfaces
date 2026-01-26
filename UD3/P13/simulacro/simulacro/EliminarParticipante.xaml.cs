@@ -24,6 +24,9 @@ namespace simulacro
             InitializeComponent();
         }
 
+        /// <summary>Bajas the participante.</summary>
+        /// <param name="sender">The sender.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs" /> instance containing the event data.</param>
         private void BajaParticipante(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Baja tramitada", "Baja", MessageBoxButton.OK, MessageBoxImage.Exclamation);

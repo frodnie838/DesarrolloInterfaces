@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraApp.PaginaFlexL"
+             Title="PaginaFlexL">
+    <FlexLayout Direction="Column"
+                JustifyContent="SpaceBetween">
+
+        <Label Text="HEADER"
+               TextColor="Black"
+               BackgroundColor="Cyan"
+               FontSize="18"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FlexLayout.Basis="Auto" />
+
+        <FlexLayout FlexLayout.Grow="1" 
+                    Direction="Row">
+
+            <Button BackgroundColor="Blue"
+                    FlexLayout.Basis="Auto"
+                    CornerRadius="0"/>
+
+            <Label Text="CONTENT"
+                   TextColor="Black"
+                   BackgroundColor="Gray"
+                   VerticalTextAlignment="Start"
+                   HorizontalTextAlignment="Start"
+                   FlexLayout.Grow="1"
+                   />
+
+            <Button BackgroundColor="Green"
+                     FlexLayout.Basis="Auto" 
+                    CornerRadius="0"/>
+
+        </FlexLayout>
+
+        <Label Text="FOOTER"
+               TextColor="Black"
+               BackgroundColor="Pink"
+               FontSize="18"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               FlexLayout.Basis="Auto" />
+
+    </FlexLayout>
+</ContentPage>

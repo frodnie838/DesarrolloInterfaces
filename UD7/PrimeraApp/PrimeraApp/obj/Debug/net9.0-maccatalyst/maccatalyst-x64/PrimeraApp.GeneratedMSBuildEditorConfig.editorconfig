@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PrimeraApp
+build_property.ProjectDir = C:\Users\alumno\Documents\GitHub\DesarrolloInterfaces\UD7\PrimeraApp\PrimeraApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/Pagina1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.Pagina1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina1.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/Pagina2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.Pagina2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagina2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagina2.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/PaginaFlexL.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.PaginaFlexL.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginaFlexL.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginaFlexL.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/alumno/Documents/GitHub/DesarrolloInterfaces/UD7/PrimeraApp/PrimeraApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PrimeraApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

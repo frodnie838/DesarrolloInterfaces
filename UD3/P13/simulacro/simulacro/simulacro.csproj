@@ -2,10 +2,18 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>footprint_icon_187971.ico</ApplicationIcon>
+    <AssemblyName>simulacro</AssemblyName>
+    <Title>InformesSimulacro</Title>
+    <Version>1.0.0</Version>
+    <Authors>Fran</Authors>
+    <Company>DAM</Company>
+    <Description>Aplicación de gestión de usuarios para la práctica DAM</Description>
+    <Product>InformecompletoWPF</Product>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +21,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="footprint_icon_187971.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MySql.Data" Version="9.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\UD6\SimulacroTest\simulacro.Logica\simulacro.Logica.csproj" />
+    <ProjectReference Include="..\..\..\..\UD6\SimulacroTest\SimulacroTest\SimulacroTest.csproj" />
   </ItemGroup>
 
   <ItemGroup>

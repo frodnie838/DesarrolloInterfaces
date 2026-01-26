@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using simulacro.Logica;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,7 +20,9 @@ namespace simulacro
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox.Show(saludo());
+
+            SaludoService saludoService = new SaludoService();
+            MessageBox.Show(saludoService.ObtenerSaludo());
         }
         /// <summary>
         /// Llama a la ventana NuevoParticipante y muestra la ventana.
@@ -54,15 +57,6 @@ namespace simulacro
         {
             InformeCompleto m = new InformeCompleto();
             m.Show();
-        }
-
-        /// <summary>
-        /// Da un mensaje de bienvenida
-        /// </summary>
-        /// <returns> String con el mensaje de salida </returns>
-        private string saludo()
-        {
-            return "Bienvenid@ al simulacro!!!";
-        }
+        } 
     }
 }
