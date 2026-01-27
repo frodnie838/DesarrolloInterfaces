@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\mi_tarea1\\mi_tarea1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|solutionrelative:mi_tarea1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\mi_tarea1\\mi_tarea1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|solutionrelative:mi_tarea1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|c:\\users\\alumno\\documents\\github\\desarrollointerfaces\\ud7\\mi_tarea1\\mi_tarea1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9EAB8842-ACC0-41E3-969B-DF1C4B2F10BE}|Mi_Tarea1\\Mi_Tarea1.csproj|solutionrelative:mi_tarea1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Mi_Tarea1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\AppShell.xaml",
+              "RelativeToolTip": "Mi_Tarea1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T13:34:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Mi_Tarea1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\MainPage.xaml.cs",
+              "RelativeToolTip": "Mi_Tarea1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:00:27.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Mi_Tarea1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\alumno\\Documents\\GitHub\\DesarrolloInterfaces\\UD7\\Mi_Tarea1\\Mi_Tarea1\\MainPage.xaml",
+              "RelativeToolTip": "Mi_Tarea1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T11:59:46.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

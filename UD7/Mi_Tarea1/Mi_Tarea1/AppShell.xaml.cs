@@ -1,0 +1,10 @@
+﻿namespace Mi_Tarea1
+{
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
+}
